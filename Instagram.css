@@ -1,0 +1,33 @@
+.container{
+  border:2px solid #bbb;
+  height: 160px;
+  width: 160px;
+  margin-top: 250px;
+  border-radius: 25px;
+  box-shadow: 0 30px 95px;
+  background: linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+}
+.ob{
+  border:5px solid #fff;
+  height: 70px;
+  width: 70px;
+  border-radius: 15px;
+  margin: 40px 40px;
+}
+.ib{
+  border:5px solid #fff;
+  height: 30px;
+  width: 30px;
+  border-radius: 30px;
+  margin-top: 16px;
+  margin-left: 16px;
+}
+.c{
+  border: 1px solid #fff;
+  height: 7px;
+  width: 7px;
+  border-radius: 7px;
+  background: #fff;
+  margin-top: -45px ;
+  margin-left: 55px;
+}
